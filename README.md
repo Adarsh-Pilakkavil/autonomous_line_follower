@@ -17,7 +17,7 @@ Components Used-
 - Battery pack
 - Jumper wires
 - Breadboard
-
+<img src="linefollowermk1.jpeg" width="300">
 The robot can clear 6 type of obstacles-
 - Line Gaps
 - Colour Change (In progress)
