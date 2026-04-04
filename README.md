@@ -19,9 +19,9 @@ Components Used-
 - Breadboard
 
 The robot can clear 6 type of obstacles-
-(i) Line Gaps
-(ii) Colour Change (In progress)
-(iii) Line split with colour based decision (In progress)
-(iv) Elevation changes and incline
-(v) Obstacles and retracing (In progress)
+- Line Gaps
+- Colour Change (In progress)
+- Line split with colour based decision (In progress)
+- Elevation changes and incline
+- Obstacles and retracing (In progress)
 
