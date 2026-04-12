@@ -9,7 +9,7 @@ It demonstrates key concepts in:
 
 Components Used-
 - Microcontroller (Arduino or compatible)
-- IR Sensors (for line detection)
+- 16*IR Sensors (for line detection)
 - BO Motors
 - Motor Driver (L298N / Shield)
 - Chassis (custom CAD design)
@@ -17,6 +17,9 @@ Components Used-
 - Battery pack
 - Jumper wires
 - Breadboard
+- color sensor
+- proximity sensor
+- shift registers
 
 <img src="linefollowermk1.jpeg" width="400">
 
